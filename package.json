@@ -1,0 +1,12 @@
+{
+  "name": "gerador-de-conselhos",
+  "version": "1.0.0",
+  "description": "![Prévia de design para o desafio de codificação do aplicativo gerador de conselhos](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./assets/sass/estilo.scss:./assets/css/estilo.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
